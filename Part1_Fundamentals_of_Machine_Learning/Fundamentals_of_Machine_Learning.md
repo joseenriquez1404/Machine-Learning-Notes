@@ -37,4 +37,4 @@
 - Batch Learning: El sistema no es capaz de aprender de manera incremental, debe ser entrenado usando todos los datos disponibles. Suele tomar mucho tiempo y usar muchos recursos de computo, se suele hacer offline. Primero se entrena y luego es lanzado a produccion. Si queremos que aprende nuevos datos se debe de volver a entrenar.
 
 - Online Learning: Se entrena al modelo de mandera incremental, dandole informacion de manera sequencial, como individuual o mediante pequenios grupos llamados **mini-batches**. Puede ayudar a entrenar modelos los cuales tienen un dataset muy grande.
-  - Un parametro muy importante es el **learning rate** el cual si es muy alto, se adaptara a nuevos datos muy rapido pero olvidara los datos antiguos y viceversa.
+  - Un parametro muy importante es el **learning rate** el cual si es muy alto, se adaptara a nuevos datos muy rapido pero olvidara los datos antiguos y viceversa.****
