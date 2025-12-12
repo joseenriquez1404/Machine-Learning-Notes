@@ -38,7 +38,7 @@ $$
 \lVert v \rVert = (\lvert v_0 \rvert^k + \lvert v_1 \rvert^k + ... + \lvert v_n \rvert^k)^\frac{1}{k}
 $$
 
-nos dice cuantos numeros diferentes a cero hay en el vector y si hacemos que tienda a infinito nos va a dar el valor absoluto maximo en el vector.
+cuando es $l_0$ nos dice cuantos numeros diferentes a cero hay en el vector y si hacemos que tienda a infinito nos va a dar el valor absoluto maximo en el vector.
 
 Cuando tenemos la norma $l_2$ es la distancia euclidiana desde el origen al punto
 
